@@ -1,7 +1,5 @@
 # Sistema-gestao-olimpiadas
 
-# Sistema de Gestão das Olimpíadas (SGO) - Projeto de Software
-
 **Disciplina:** Projeto de Software
 **Professor:** João Paulo Carneiro Aramuni
 **Aluno:** Pedro Teodoro Castro Valadares 
