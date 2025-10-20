@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Página-1" id="-WvQTtgj3mwJqE1qRFFZ">
+    <mxGraphModel dx="728" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="udtHZClJvaYIcNbsqlSm-121" value="&amp;lt;&amp;lt;Dispositivo&amp;gt;&amp;gt;&lt;div&gt;Dispositivo do Usuário&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="400" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-122" value="&amp;lt;&amp;lt;Servidor de Aplicação Web&amp;gt;&amp;gt;&lt;div&gt;Servidor Web&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="890" y="670" width="310" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-123" value="&amp;lt;&amp;lt;Servidor de Negócio&amp;gt;&amp;gt;&lt;div&gt;Servidor de Aplicação&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="750" y="960" width="450" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-124" value="&amp;lt;&amp;lt;Servidor de Dados&amp;gt;&amp;gt;&lt;br&gt;&lt;div&gt;Servidor de banco de Dados&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="960" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-125" value="Navegador Web" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="490" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-126" value="Interface do Usuário" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="995" y="740" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-127" value="Módulo de Inscrições&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Navegador%20Web%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221055%22%20y%3D%22490%22%20width%3D%22100%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1025" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-128" value="Módulo de Resultados" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1080" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-129" value="Módulo de Alocação" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1025" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-130" value="Módulo de Relatórios" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1080" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-131" value="SGO - Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="1025" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.304;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="udtHZClJvaYIcNbsqlSm-121" target="udtHZClJvaYIcNbsqlSm-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-133" value="HTTP/HTTPS (Rede Publica)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="udtHZClJvaYIcNbsqlSm-132">
+          <mxGeometry x="0.1674" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.024;entryY=0.343;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="udtHZClJvaYIcNbsqlSm-122" target="udtHZClJvaYIcNbsqlSm-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-135" value="API REST/Load Balancer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="udtHZClJvaYIcNbsqlSm-134">
+          <mxGeometry x="-0.1247" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="udtHZClJvaYIcNbsqlSm-123" target="udtHZClJvaYIcNbsqlSm-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="udtHZClJvaYIcNbsqlSm-137" value="JDBC/OBDC (Rede Privada)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="udtHZClJvaYIcNbsqlSm-136">
+          <mxGeometry x="-0.1416" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
